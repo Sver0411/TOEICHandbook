@@ -1,0 +1,49 @@
+---
+title: "eligible"
+kind: "vocabulary"
+chapter: 2
+summary: "符合资格的"
+tags: ["优惠与资格"]
+related: []
+phonetic: "/ˈelɪdʒəbəl/"
+pos: "adjective"
+family: ["eligibility"]
+---
+
+## 核心含义
+
+**符合资格的**。eligible for a benefit；eligible to do something。
+
+## 常用搭配与结构
+
+- `eligible for a refund`
+- `eligible to apply`
+
+## 例句与解析
+
+> Members are eligible for free delivery.
+>
+> 会员有资格享受免费配送。
+
+are eligible for 表符合资格；free delivery 是可享受的权益。句子说明会员资格条件，并非所有人都享受该服务。
+
+## 词性变化与词族
+
+`eligibility`
+
+词族帮助连接词义，但每种形式的句法位置不同。名词可作主语或宾语；形容词修饰名词或作表语；谓语位置需要符合时态的动词形式。
+
+## 易混与常见错误
+
+> **注意**：eligible 是符合条件；available 是可获得或有空。
+
+## TOEIC 场景
+
+**优惠与资格**。在通知、邮件、对话或说明中，留意这个词描述的是人物、动作、状态还是物品。Part 5 读空格两侧判断词性；Part 7 结合时间、身份和条件定位信息。
+
+<details>
+<summary>阅读时怎样记下这个词？</summary>
+
+把上面的搭配连同句子一起记下。给搭配补上一个具体人物或场景，再与词族中的另一个形式比较句法位置。
+
+</details>
